@@ -1,7 +1,7 @@
-## jellytorrent -- a BitTorrent Client
+# Jellytorrent -- a BitTorrent Client
 
 ### Supported features:
-
+Planning to do http, https, udp 
 
 
 ### Development timeline status:<br>
