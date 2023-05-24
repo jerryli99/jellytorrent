@@ -13,3 +13,6 @@
 | 05/30/2023 | plan to at least have the .torrent parser done |
 
 
+### Style guides
+https://peps.python.org/pep-0008
+
