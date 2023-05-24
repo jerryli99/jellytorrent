@@ -1,5 +1,7 @@
 ## jellytorrent
+
 jellytorrent is a BitTorrent Client
-[My intention of doing this project is to learn some Python.]
+
+status (05/19/2023): planning stage
 
 Supported features:
