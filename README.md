@@ -1,6 +1,4 @@
-# jellytorrent
-
-## jellytorrent is a BitTorrent Client
+## jellytorrent -- a BitTorrent Client
 
 ### Supported features:
 
