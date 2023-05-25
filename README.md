@@ -16,5 +16,7 @@ Planning to do http, https, udp
 ## Style guides
 Yes, I added the prefix jelly for every Python module name. Please don't judge if you attemp to.<br> 
 
+I will stick to using double quotes for strings, dictionary keys, etc...until I have to use single quotes..<br>
+
 https://peps.python.org/pep-0008
 
